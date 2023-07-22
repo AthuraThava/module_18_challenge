@@ -16,19 +16,18 @@ The steps for this Challenge are divided into the following sections:
 
 ## Application Interface:
 
-![image](https://github.com/AthuraThava/module_18_challenge/assets/125240804/82550d10-9251-4da8-977c-0cccb31a8165)
+![image](https://github.com/AthuraThava/module_18_challenge/assets/125240804/57e0c92d-b9f5-4704-8d70-e9c34483312e)
 
-![image](https://github.com/AthuraThava/module_18_challenge/assets/125240804/dddb9659-a694-41fc-ac19-9d469352b1a5)
+![image](https://github.com/AthuraThava/module_18_challenge/assets/125240804/1986bf50-f3f9-4aec-a84d-9c62e93d1955)
 
 ## Transaction Record:
 
-![image](https://github.com/AthuraThava/module_18_challenge/assets/125240804/da0d1219-012b-4660-9d03-ad959ad783f0)
+![image](https://github.com/AthuraThava/module_18_challenge/assets/125240804/82200c18-4529-4b0f-aea2-1b63527d6172)
 
 ## Ledger:
 
-![image](https://github.com/AthuraThava/module_18_challenge/assets/125240804/29de3e39-f3ce-4ef1-ac28-0ca31b7dfa65)
+![image](https://github.com/AthuraThava/module_18_challenge/assets/125240804/0a3c9df7-b882-46e7-b2b2-41ecd6ddfa98)
 
 ## Chain Validation:
 
-![image](https://github.com/AthuraThava/module_18_challenge/assets/125240804/bd4ba41f-4a8a-469c-9209-ff99565d8c8e)
-
+![image](https://github.com/AthuraThava/module_18_challenge/assets/125240804/791fa8c3-96a1-4996-9921-30f848471206)
